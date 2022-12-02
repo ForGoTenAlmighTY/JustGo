@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "528331866704",
+    "project_id": "justgo-3faad",
+    "storage_bucket": "justgo-3faad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528331866704:android:c1b0926c8f6ac4db4b4755",
+        "android_client_info": {
+          "package_name": "com.example.justgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "528331866704-jiupm2p6lhele3obprb781o1nrdor7bb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGh_6jspHDnJ3vvpuNyUrK1aRQkK5hLJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "528331866704-jiupm2p6lhele3obprb781o1nrdor7bb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
